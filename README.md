@@ -1,2 +1,2 @@
 # blog
-home site
+$ site blog fronted Html/JavaScript/Css 
